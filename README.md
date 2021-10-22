@@ -1,5 +1,5 @@
-# app_surat
-App Surat Keluar 
+# laporan_skripsi
+App Ujian Mahasiswa Baru
 Dibuat dengan : 
 <ul>
 <li>Codeigniter</li>
@@ -13,7 +13,4 @@ Cara menggunakan :
 <li>Ganti settingan database, dan sesuaikan dengan settingan punya kalian</li>
 </ul>
 
-Link Demo
-<br/>
-http://demo.surdaysoft.com/surat
 
